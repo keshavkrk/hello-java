@@ -3,7 +3,7 @@ public class hello {
     public static void main(String[] args) {
 
         System.out.println("Hello World!");
-        System.out.println("Java program executed successfully by Jenkins");
+        System.out.println("Build triggered by Jenkins automatically!");
 
     }
 }
